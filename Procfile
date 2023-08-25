@@ -1,1 +1,1 @@
-web: node backend/server.js
+To open backend: node backend/server.js
