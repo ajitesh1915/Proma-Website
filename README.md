@@ -1,5 +1,5 @@
 # Full Stack E-commerce Website using MERN Stack technology
-Hello! My name is Vaishnavi Pandey, I am a 4th Year UG student currently studying at Indian Institute of Technology, Kharagpur. I have developed this full stack web development project for implementing an E-commerce website for online shopping. The tech stack used is ReactJS, NodeJS, ExpressJS and MongoDB (MERN stack).
+Hello! My name is Ajitesh Bharti. I have developed this full stack web development project for implementing an E-commerce website for online shopping. The tech stack used is ReactJS, NodeJS, ExpressJS and MongoDB (MERN stack).
 
 # Install Dependencies
 There are two folders in the project, one for backend and other for the frontend
